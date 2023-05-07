@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="Result">Welcome</string>
+    <string name="heightInFt">Height in Ft</string>
+    <string name="weightInKg">Weight in Kg\'s</string>
+    <string name="calculate">Calculate</string>
+    <string name="heightInInches">Height in Inches</string>
+    <string name="Bmi">BMI Calculator</string>
+    <string name="bmi_result">BMI Result</string>
+</resources>
